@@ -16,3 +16,12 @@ body {
 .v-middle {
   vertical-align: middle;
 }
+
+.green-snackbar {
+  background-color: rgb(4, 172, 102);
+  color: white;
+}
+
+.green-snackbar .mat-simple-snackbar-action {
+  color: white;
+}
